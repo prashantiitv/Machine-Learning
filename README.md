@@ -1,2 +1,2 @@
-# machine-learning
-Some machine learning prediction examples.
+# Machine Learning
+This repository contains basic prediction methods of machine learning.
